@@ -1,6 +1,6 @@
 # Checkpoint 1 Work
 
-Name: Ashwath Raghav Swaminathan And Shaunak Wagh
+Name: Shaunak Wagh and Partner
 
 We implemented an implicit free list to simulate mm_init, malloc, free and realloc.
 
